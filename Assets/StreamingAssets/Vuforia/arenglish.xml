@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="table" size="1.000000 1.000000" />
+    <ImageTarget name="pen" size="1.000000 2.025316" />
+    <ImageTarget name="books" size="1.000000 1.000000" />
+    <ImageTarget name="kursis" size="1.000000 1.000000" />
+    <ImageTarget name="cat" size="1.000000 1.000000" />
+  </Tracking>
+</QCARConfig>
